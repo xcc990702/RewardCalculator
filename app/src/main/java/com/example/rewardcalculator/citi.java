@@ -101,6 +101,9 @@ public class citi extends AppCompatActivity implements View.OnClickListener {
             public void onNothingSelected(AdapterView<?> parent) {
                 textView.setText("Please Make a Selection");
 
+
+                
+
             }
         });
 
